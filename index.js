@@ -1,1 +1,4 @@
-// Write your code here!
+main.remove();// Write your code here!
+const newHeader = document.createElement("h1");
+newHeader.id = "victory";
+newHeader.textContent = "Giselle is the champion";
